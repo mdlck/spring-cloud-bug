@@ -1,0 +1,5 @@
+config-props.var1Encrypted: '{cipher}9f209f133478741f81ad3fbe2bc88325b9a3c3998bffdae73b89755ec7727bc6'
+config-props.var1Raw: 'test1'
+
+config-props.map.var1Encrypted: '{cipher}9f209f133478741f81ad3fbe2bc88325b9a3c3998bffdae73b89755ec7727bc6'
+config-props.map.var1Raw: 'test1'
